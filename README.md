@@ -1,2 +1,2 @@
-# bootstrap-studio-themes
+# Bootstrap Studio Themes
 Themes to use for Bootstrap Studio
