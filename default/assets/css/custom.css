@@ -1,3 +1,9 @@
+/*------------------------------------------------------------*/
+/* By: https://github.com/thomaspark/bootswatch
+/* Demo: http://default-theme.bss.design/
+/* Repo: https://github.com/derekbtw/bootstrap-studio-themes
+/*------------------------------------------------------------*/
+
 body {
   padding-top:50px;
   padding-bottom:50px;
@@ -246,4 +252,3 @@ footer p {
   display:inline-block !important;
   margin-right:7px;
 }
-
