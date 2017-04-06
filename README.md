@@ -1,5 +1,5 @@
 # Bootstrap Studio Themes
-Themes to use with [Bootstrap Studio](https://bootstrapstudio.io/)
+## Themes to use with [Bootstrap Studio](https://bootstrapstudio.io/)
 
 View the themes &amp; templates supported so far at <a href="http://themes.bss.design">http://themes.bss.design</a>
 
